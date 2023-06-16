@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed on the header class selectors to semantic element removing the "." */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,6 +33,7 @@ header nav {
     font-size: 20px;
 }
 
+/* Changed the divs to nav*/
 header nav ul {
     list-style-type: none;
 }
@@ -86,6 +88,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidated the css by naming all benefit classes to benefit-rule 
+removing extra code to not repeat myself*/
 .benefit-rule {
     margin-bottom: 32px;
     color: #ffffff;
@@ -155,7 +159,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Changed footer class to semantic "footer" and grouped up footer and h2 to add styling to both*/
 footer h2 p {
     padding: 30px;
     clear: both;
