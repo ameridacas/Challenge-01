@@ -4,7 +4,7 @@
 I was given a web page that had non-semantic elements such as divs and class selectors. The HTML and CSS code needed to be consolidated with semantic elements such as header, footer, navigation, section, and articles. I changed the divs and class selectors to those semantic elements. Any changes made to the HTML were mirrored to the CSS style sheet to avoid code errors. I grouped up the HTML/CSS by removing extra code first then, I grouped some classes under a single name called benefit-rule while making sure everything functioned normally. The main objective was to consolidate the HTML code while keeping the webpage visually the same. 
 
 #Mock_Up
-
+![alt horiseon website](assets/images/Horiseon_Mock-Up-img.jpeg)
 
 #Usage
 
@@ -13,6 +13,8 @@ The Semantic HTML page can be used for better organization and understanding of 
 
 #Credits
 
-Deploy- ![alt horiseon website](assets/images/Horiseon_Mock-Up-img.jpeg)
+Deploy- ![alt horiseon website]./assets/images/Horiseon_Mock-Up-img.jpeg/
 
-Github_Repo-"https://ameridacas.github.io/My_First_Coding_Page/"
+Github_Deploy-"https://ameridacas.github.io/My_First_Coding_Page/"
+
+Github_Repo-"https://github.com/ameridacas/My_First_Coding_Page"
