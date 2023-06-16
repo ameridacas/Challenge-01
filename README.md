@@ -6,7 +6,6 @@ I was given a web page that had non-semantic elements such as divs and class sel
 #Mock_Up
 
 
-
 #Usage
 
 The Semantic HTML page can be used for better organization and understanding of code instead of using non-semantic elements such as divs or class selectors. The html contains straight forward semantic elemements such as header,footer, navigation, section and articles. Providing a simpler template for the consumer.
@@ -14,5 +13,6 @@ The Semantic HTML page can be used for better organization and understanding of 
 
 #Credits
 
-Deploy-"![alt horiseon website](assets/images/horiseon-mock-up.png)"
+Deploy- ![alt horiseon website](assets/images/Horiseon_Mock-Up-img.jpeg)
+
 Github_Repo-"https://ameridacas.github.io/My_First_Coding_Page/"
